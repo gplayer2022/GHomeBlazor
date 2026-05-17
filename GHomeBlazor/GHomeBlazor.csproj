@@ -11,8 +11,4 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.27" PrivateAssets="all" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Include=".github\workflows\gh-pages.yml" />
-  </ItemGroup>
-
 </Project>
