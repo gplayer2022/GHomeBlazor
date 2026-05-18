@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GHomeBlazor",
   "resources": {
-    "hash": "sha256-wT/E0EfSD+8EhlyrLGU6RQBah83Sw/W9KwRpiK/j8aA=",
+    "hash": "sha256-4WrNskKGiNHWP9pnzDNaVz8N2Jc6BdwuK338kA+1zls=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-sn/g61GjVPhViOYQDkq1OMlk0eyS9r2Hi0qgU2o0HIU="
     },
@@ -47,7 +47,7 @@
       "System.Text.Json.wasm": "sha256-2uX7GxTvQ2oMynwAqZJOjTeb1uKdNYBmq3GqVrd3XzY=",
       "System.Text.RegularExpressions.wasm": "sha256-6lTM5rK99dTveKD7N9enrJEr67CxhLZgBg3Jkk0mIgo=",
       "System.Private.CoreLib.wasm": "sha256-3B9wu74Vs8fQRN6OXG6d4LuohvO83pFAGchmPpkiDsM=",
-      "GHomeBlazor.wasm": "sha256-oTtqU2IIYtW1W/KMgSjM4YC73FhawMCDJjplnGuwomU="
+      "GHomeBlazor.wasm": "sha256-CAMgAmLvW1GKOfBH5IRTnGpQZkIn6wYU681HTm3NesU="
     }
   },
   "cacheBootResources": true,
