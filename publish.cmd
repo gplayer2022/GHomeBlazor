@@ -1,4 +1,4 @@
-@ECHO OFF62ka$i1yo
+@ECHO OFF
 
 dotnet publish -c Release
 
